@@ -1,3 +1,7 @@
+'''
+Module with functions for inserting data into the database
+'''
+
 import random
 import time
 from presets import *
